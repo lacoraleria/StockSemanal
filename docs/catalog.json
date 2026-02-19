@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-02-19T14:03:15-06:00",
+  "generatedAt": "2026-02-19T15:08:43-06:00",
   "items": [
     {
       "id": "20260219_120501__123",
@@ -14,6 +14,13 @@
       "species": "Acropora tenuis - Rainbow",
       "price": 850,
       "image": "fotos/SPS_acropora-tenuis-rainbow_20260219_120501__IMG_1234.jpg"
+    },
+    {
+      "id": "20260219_120501__IMG_1",
+      "category": "SPS",
+      "species": "Stratocaster y Kamikaze Kush",
+      "price": 1250,
+      "image": "fotos/SPS_stratocaster-y-kamikaze-kush_20260219_120501__IMG_1.jpg"
     }
   ]
 }
