@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-02-20T13:01:35-06:00",
+  "generatedAt": "2026-02-20T13:01:49-06:00",
   "items": [
     {
       "id": "20260219_120501__IMG_1",
@@ -28,6 +28,13 @@
       "species": "Acropora tenuis - Rainbow",
       "price": 850,
       "image": "fotos/SPS_acropora-tenuis-rainbow_20260219_120501__IMG_1234.jpg"
+    },
+    {
+      "id": "20260220_111030__IMG_4914",
+      "category": "SPS",
+      "species": "WWC Copperhead Cyphastrea",
+      "price": 350,
+      "image": "fotos/SPS_wwc-copperhead-cyphastrea_20260220_111030__IMG_4914.jpg"
     },
     {
       "id": "20260219_120501__IMG_2",
