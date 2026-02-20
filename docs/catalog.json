@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-02-20T13:01:16-06:00",
+  "generatedAt": "2026-02-20T13:01:35-06:00",
   "items": [
     {
       "id": "20260219_120501__IMG_1",
@@ -35,6 +35,13 @@
       "species": "WWC Looney Tunes Stylocoeniella",
       "price": 750,
       "image": "fotos/SPS_wwc-looney-tunes-stylocoeniella_20260219_120501__IMG_2.jpg"
+    },
+    {
+      "id": "20260220_111003__IMG_4908",
+      "category": "SPS",
+      "species": "WWC Looney Tunes Stylocoeniella",
+      "price": 750,
+      "image": "fotos/SPS_wwc-looney-tunes-stylocoeniella_20260220_111003__IMG_4908.jpg"
     }
   ]
 }
