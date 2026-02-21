@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-02-21T11:10:56-06:00",
+  "generatedAt": "2026-02-21T11:18:57-06:00",
   "items": [
     {
       "id": "20260220_142443__IMG_4906",
@@ -35,6 +35,13 @@
       "species": "WWC Looney Tunes Stylocoeniella",
       "price": 650,
       "image": "fotos/SPS_wwc-looney-tunes-stylocoeniella_20260220_142453__IMG_4908.jpg"
+    },
+    {
+      "id": "20260221_111611__IMG_4903",
+      "category": "Invertebrados",
+      "species": "An\u00E9mona burbuja cuadricolor",
+      "price": 250,
+      "image": "fotos/Invertebrados_anemona-burbuja-cuadricolor_20260221_111611__IMG_4903.jpg"
     }
   ]
 }
