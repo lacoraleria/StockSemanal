@@ -1,6 +1,13 @@
 ﻿{
-  "generatedAt": "2026-02-21T11:18:57-06:00",
+  "generatedAt": "2026-02-25T13:04:00-06:00",
   "items": [
+    {
+      "id": "20260225_124338__IMG_5999",
+      "category": "Blandos",
+      "species": "Ricordea Rainbow",
+      "price": 750,
+      "image": "fotos/Blandos_ricordea-rainbow_20260225_124338__IMG_5999.jpg"
+    },
     {
       "id": "20260220_142443__IMG_4906",
       "category": "Blandos",
@@ -9,11 +16,32 @@
       "image": "fotos/Blandos_stratocaster-y-kamikaze-kush_20260220_142443__IMG_4906.jpg"
     },
     {
+      "id": "20260225_115303__IMG_4799",
+      "category": "LPS",
+      "species": "Fairy Bloom Goniopora",
+      "price": 990,
+      "image": "fotos/LPS_fairy-bloom-goniopora_20260225_115303__IMG_4799.jpg"
+    },
+    {
+      "id": "20260225_124304__IMG_5993",
+      "category": "LPS",
+      "species": "Todds Torch",
+      "price": 1200,
+      "image": "fotos/LPS_todds-torch_20260225_124304__IMG_5993.jpg"
+    },
+    {
       "id": "20260220_142428__IMG_4810",
       "category": "LPS",
       "species": "WWC Stellaria",
       "price": 450,
       "image": "fotos/LPS_wwc-stellaria_20260220_142428__IMG_4810.jpg"
+    },
+    {
+      "id": "20260225_124401__IMG_6020",
+      "category": "SPS",
+      "species": "Cyphastrea Bizarro",
+      "price": 350,
+      "image": "fotos/SPS_cyphastrea-bizarro_20260225_124401__IMG_6020.jpg"
     },
     {
       "id": "20260221_103624__IMG_4904",
