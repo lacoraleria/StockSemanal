@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-02-25T19:55:52-06:00",
+  "generatedAt": "2026-02-26T20:26:05-06:00",
   "items": [
     {
       "id": "20260225_160046__IMG_3910",
@@ -1603,6 +1603,13 @@
       "species": "WWC Looney Tunes Stylocoeniella",
       "price": 650,
       "image": "fotos/SPS_wwc-looney-tunes-stylocoeniella_20260225_161001__IMG_3934.jpg"
+    },
+    {
+      "id": "20260226_202538__Ocellaris",
+      "category": "Peces",
+      "species": "Ocellaris",
+      "price": 300,
+      "image": "fotos/Peces_ocellaris_20260226_202538__Ocellaris.jpg"
     },
     {
       "id": "20260221_111611__IMG_4903",
