@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-03-03T12:18:26-06:00",
+  "generatedAt": "2026-03-03T12:22:09-06:00",
   "items": [
     {
       "id": "20260225_160046__IMG_3910",
@@ -175,13 +175,6 @@
       "species": "Gatorade",
       "price": 250,
       "image": "fotos/Blandos_gatorade_20260225_182421__IMG_6017.jpg"
-    },
-    {
-      "id": "20260225_182618__IMG_6026",
-      "category": "Blandos",
-      "species": "Gatorade",
-      "price": 250,
-      "image": "fotos/Blandos_gatorade_20260225_182618__IMG_6026.jpg"
     },
     {
       "id": "20260225_162015__IMG_4228",
@@ -996,13 +989,6 @@
       "image": "fotos/LPS_hammer-marbled_20260225_175506__IMG_5812.jpg"
     },
     {
-      "id": "20260225_180206__IMG_5826",
-      "category": "LPS",
-      "species": "Hammer Wall Rainbow",
-      "price": 1800,
-      "image": "fotos/LPS_hammer-wall-rainbow_20260225_180206__IMG_5826.jpg"
-    },
-    {
       "id": "20260225_180500__IMG_5983",
       "category": "LPS",
       "species": "Holy Grail Torch",
@@ -1330,13 +1316,6 @@
       "species": "Willy Wonka Hammer",
       "price": 1500,
       "image": "fotos/LPS_willy-wonka-hammer_20260225_180143__IMG_5825.jpg"
-    },
-    {
-      "id": "20260225_180013__IMG_5821",
-      "category": "LPS",
-      "species": "Willy Wonka Hammer tripple",
-      "price": 1500,
-      "image": "fotos/LPS_willy-wonka-hammer-tripple_20260225_180013__IMG_5821.jpg"
     },
     {
       "id": "20260225_164322__IMG_4907",
