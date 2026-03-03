@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-03-02T17:01:25-06:00",
+  "generatedAt": "2026-03-03T12:18:26-06:00",
   "items": [
     {
       "id": "20260225_160046__IMG_3910",
@@ -646,13 +646,6 @@
       "image": "fotos/LPS_acanthastrea-lordhwensis-rainbow_20260225_170120__IMG_5543.jpg"
     },
     {
-      "id": "20260225_170106__IMG_5542",
-      "category": "LPS",
-      "species": "Acanthastrea Lordhwensis Rainbow",
-      "price": 650,
-      "image": "fotos/LPS_acanthastrea-lordhwensis-rainbow_20260225_170106__IMG_5542.jpg"
-    },
-    {
       "id": "20260225_174212__IMG_5616",
       "category": "LPS",
       "species": "Acanthastrea Lordhwensis Rainbow",
@@ -931,13 +924,6 @@
       "species": "Golden Branching Hammer",
       "price": 650,
       "image": "fotos/LPS_golden-branching-hammer_20260225_180059__IMG_5824.jpg"
-    },
-    {
-      "id": "20260225_175920__IMG_5819",
-      "category": "LPS",
-      "species": "Golden Branching Hammer triple",
-      "price": 1200,
-      "image": "fotos/LPS_golden-branching-hammer-triple_20260225_175920__IMG_5819.jpg"
     },
     {
       "id": "20260225_174144__IMG_5614",
