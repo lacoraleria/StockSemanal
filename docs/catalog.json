@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-03-03T12:22:09-06:00",
+  "generatedAt": "2026-03-03T12:24:03-06:00",
   "items": [
     {
       "id": "20260225_160046__IMG_3910",
@@ -639,13 +639,6 @@
       "image": "fotos/LPS_acanthastrea-lordhwensis-rainbow_20260225_170120__IMG_5543.jpg"
     },
     {
-      "id": "20260225_174212__IMG_5616",
-      "category": "LPS",
-      "species": "Acanthastrea Lordhwensis Rainbow",
-      "price": 650,
-      "image": "fotos/LPS_acanthastrea-lordhwensis-rainbow_20260225_174212__IMG_5616.jpg"
-    },
-    {
       "id": "20260225_170047__IMG_5541",
       "category": "LPS",
       "species": "Acanthastrea Lordhwensis Rainbow",
@@ -989,13 +982,6 @@
       "image": "fotos/LPS_hammer-marbled_20260225_175506__IMG_5812.jpg"
     },
     {
-      "id": "20260225_180500__IMG_5983",
-      "category": "LPS",
-      "species": "Holy Grail Torch",
-      "price": 2900,
-      "image": "fotos/LPS_holy-grail-torch_20260225_180500__IMG_5983.jpg"
-    },
-    {
       "id": "20260225_181815__IMG_5998",
       "category": "LPS",
       "species": "Holy Grail US",
@@ -1022,13 +1008,6 @@
       "species": "Jester Torch",
       "price": 2000,
       "image": "fotos/LPS_jester-torch_20260225_181533__IMG_5986.jpg"
-    },
-    {
-      "id": "20260225_180523__IMG_5984",
-      "category": "LPS",
-      "species": "Jester Torch doble",
-      "price": 2900,
-      "image": "fotos/LPS_jester-torch-doble_20260225_180523__IMG_5984.jpg"
     },
     {
       "id": "20260225_181617__IMG_5989",
