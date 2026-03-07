@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-03-03T19:53:37-06:00",
+  "generatedAt": "2026-03-06T18:04:41-06:00",
   "items": [
     {
       "id": "20260225_160046__IMG_3910",
@@ -56,13 +56,6 @@
       "species": "Candy Apple",
       "price": 350,
       "image": "fotos/Blandos_candy-apple_20260225_164742__IMG_5295.jpg"
-    },
-    {
-      "id": "20260225_164729__IMG_5294",
-      "category": "Blandos",
-      "species": "Candy Apple",
-      "price": 350,
-      "image": "fotos/Blandos_candy-apple_20260225_164729__IMG_5294.jpg"
     },
     {
       "id": "20260225_160705__IMG_3912",
@@ -161,13 +154,6 @@
       "species": "Gatorade",
       "price": 200,
       "image": "fotos/Blandos_gatorade_20260225_182437__IMG_6018.jpg"
-    },
-    {
-      "id": "20260225_182158__IMG_6008",
-      "category": "Blandos",
-      "species": "Gatorade",
-      "price": 250,
-      "image": "fotos/Blandos_gatorade_20260225_182158__IMG_6008.jpg"
     },
     {
       "id": "20260225_182421__IMG_6017",
@@ -611,25 +597,11 @@
       "image": "fotos/LPS_acanthastrea-echinata-toxic_20260225_174517__IMG_5624.jpg"
     },
     {
-      "id": "20260225_174459__IMG_5623",
-      "category": "LPS",
-      "species": "Acanthastrea Echinata Toxic",
-      "price": 350,
-      "image": "fotos/LPS_acanthastrea-echinata-toxic_20260225_174459__IMG_5623.jpg"
-    },
-    {
       "id": "20260225_163111__IMG_4690",
       "category": "LPS",
       "species": "Acanthastrea Lordhwensis Rainbow",
       "price": 350,
       "image": "fotos/LPS_acanthastrea-lordhwensis-rainbow_20260225_163111__IMG_4690.jpg"
-    },
-    {
-      "id": "20260225_165739__IMG_5538",
-      "category": "LPS",
-      "species": "Acanthastrea Lordhwensis Rainbow",
-      "price": 650,
-      "image": "fotos/LPS_acanthastrea-lordhwensis-rainbow_20260225_165739__IMG_5538.jpg"
     },
     {
       "id": "20260225_170120__IMG_5543",
@@ -1302,13 +1274,6 @@
       "species": "WWC Jingle Bells",
       "price": 250,
       "image": "fotos/LPS_wwc-jingle-bells_20260225_164354__IMG_5282.jpg"
-    },
-    {
-      "id": "20260220_142428__IMG_4810",
-      "category": "LPS",
-      "species": "WWC Stellaria",
-      "price": 450,
-      "image": "fotos/LPS_wwc-stellaria_20260220_142428__IMG_4810.jpg"
     },
     {
       "id": "20260225_155912__IMG_3643",
