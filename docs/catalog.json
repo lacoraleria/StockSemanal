@@ -1,6 +1,13 @@
 ﻿{
-  "generatedAt": "2026-03-08T18:33:43-06:00",
+  "generatedAt": "2026-03-09T11:25:25-06:00",
   "items": [
+    {
+      "id": "20260309_110121__IMG_6988",
+      "category": "Blandos",
+      "species": "Aussie Wine Blood Discosoma",
+      "price": 250,
+      "image": "fotos/Blandos_aussie-wine-blood-discosoma_20260309_110121__IMG_6988.jpg"
+    },
     {
       "id": "20260225_164436__IMG_5288",
       "category": "Blandos",
@@ -366,6 +373,13 @@
       "image": "fotos/Blandos_yellow-jawbreakers_20260225_162213__IMG_4561.jpg"
     },
     {
+      "id": "20260309_110219__IMG_6989",
+      "category": "Blandos",
+      "species": "Yuma Bubble Beam Ricordea",
+      "price": 300,
+      "image": "fotos/Blandos_yuma-bubble-beam-ricordea_20260309_110219__IMG_6989.jpg"
+    },
+    {
       "id": "20260225_174002__IMG_5610",
       "category": "LPS",
       "species": "Acanthastrea Echinata Halloween Toxic",
@@ -681,6 +695,34 @@
       "image": "fotos/LPS_dragon-soul-torch_20260225_181730__IMG_5995.jpg"
     },
     {
+      "id": "20260309_111249__IMG_6999",
+      "category": "LPS",
+      "species": "Fruity Monitcap",
+      "price": 200,
+      "image": "fotos/LPS_fruity-monitcap_20260309_111249__IMG_6999.jpg"
+    },
+    {
+      "id": "20260309_111342__IMG_7004",
+      "category": "LPS",
+      "species": "Fruity Monticap",
+      "price": 200,
+      "image": "fotos/LPS_fruity-monticap_20260309_111342__IMG_7004.jpg"
+    },
+    {
+      "id": "20260309_111324__IMG_7002",
+      "category": "LPS",
+      "species": "Fruity Monticap",
+      "price": 200,
+      "image": "fotos/LPS_fruity-monticap_20260309_111324__IMG_7002.jpg"
+    },
+    {
+      "id": "20260309_111356__IMG_7005",
+      "category": "LPS",
+      "species": "Fruity Monticap",
+      "price": 200,
+      "image": "fotos/LPS_fruity-monticap_20260309_111356__IMG_7005.jpg"
+    },
+    {
       "id": "20260225_175844__IMG_5818",
       "category": "LPS",
       "species": "Gold Digger Hammer",
@@ -793,6 +835,41 @@
       "image": "fotos/LPS_jester-torch-doble_20260225_181617__IMG_5989.jpg"
     },
     {
+      "id": "20260309_110004__IMG_6987",
+      "category": "LPS",
+      "species": "JF Dayglow Favia",
+      "price": 350,
+      "image": "fotos/LPS_jf-dayglow-favia_20260309_110004__IMG_6987.jpg"
+    },
+    {
+      "id": "20260309_111136__IMG_6994",
+      "category": "LPS",
+      "species": "JF Dayglow Favia",
+      "price": 350,
+      "image": "fotos/LPS_jf-dayglow-favia_20260309_111136__IMG_6994.jpg"
+    },
+    {
+      "id": "20260309_111150__IMG_6996",
+      "category": "LPS",
+      "species": "JF Dayglow Favia",
+      "price": 350,
+      "image": "fotos/LPS_jf-dayglow-favia_20260309_111150__IMG_6996.jpg"
+    },
+    {
+      "id": "20260309_105950__IMG_6986",
+      "category": "LPS",
+      "species": "JF Dayglow Favia",
+      "price": 450,
+      "image": "fotos/LPS_jf-dayglow-favia_20260309_105950__IMG_6986.jpg"
+    },
+    {
+      "id": "20260309_105942__IMG_6985",
+      "category": "LPS",
+      "species": "JF Dayglow Favia",
+      "price": 450,
+      "image": "fotos/LPS_jf-dayglow-favia_20260309_105942__IMG_6985.jpg"
+    },
+    {
       "id": "20260225_160855__IMG_3918",
       "category": "LPS",
       "species": "JF Sector 01 Favia",
@@ -805,6 +882,20 @@
       "species": "JF Sector 01 Favia",
       "price": 300,
       "image": "fotos/LPS_jf-sector-01-favia_20260225_163132__IMG_4691.jpg"
+    },
+    {
+      "id": "20260309_105739__IMG_6977",
+      "category": "LPS",
+      "species": "JF Sector 01 Favia",
+      "price": 250,
+      "image": "fotos/LPS_jf-sector-01-favia_20260309_105739__IMG_6977.jpg"
+    },
+    {
+      "id": "20260309_111126__IMG_6993",
+      "category": "LPS",
+      "species": "JF Sector 01 Favia",
+      "price": 250,
+      "image": "fotos/LPS_jf-sector-01-favia_20260309_111126__IMG_6993.jpg"
     },
     {
       "id": "20260225_165644__IMG_5334",
@@ -847,6 +938,13 @@
       "species": "Mint Tips Torch",
       "price": 1200,
       "image": "fotos/LPS_mint-tips-torch_20260225_181720__IMG_5994.jpg"
+    },
+    {
+      "id": "20260309_111304__IMG_7001",
+      "category": "LPS",
+      "species": "Neon Green Montipora",
+      "price": 200,
+      "image": "fotos/LPS_neon-green-montipora_20260309_111304__IMG_7001.jpg"
     },
     {
       "id": "20260225_164646__IMG_5293",
@@ -896,6 +994,27 @@
       "species": "Ora Easter Egg Chalice",
       "price": 450,
       "image": "fotos/LPS_ora-easter-egg-chalice_20260225_170410__IMG_5606.jpg"
+    },
+    {
+      "id": "20260309_111233__IMG_6998",
+      "category": "LPS",
+      "species": "Orange Monticap",
+      "price": 200,
+      "image": "fotos/LPS_orange-monticap_20260309_111233__IMG_6998.jpg"
+    },
+    {
+      "id": "20260309_111404__IMG_7006",
+      "category": "LPS",
+      "species": "Orange Monticap",
+      "price": 200,
+      "image": "fotos/LPS_orange-monticap_20260309_111404__IMG_7006.jpg"
+    },
+    {
+      "id": "20260309_111334__IMG_7003",
+      "category": "LPS",
+      "species": "Orange Monticap",
+      "price": 250,
+      "image": "fotos/LPS_orange-monticap_20260309_111334__IMG_7003.jpg"
     },
     {
       "id": "20260225_162729__IMG_4633",
@@ -989,6 +1108,13 @@
       "image": "fotos/LPS_scolymia-xl_20260225_165712__IMG_5336.jpg"
     },
     {
+      "id": "20260309_111214__IMG_6997",
+      "category": "LPS",
+      "species": "Superman Discosoma",
+      "price": 250,
+      "image": "fotos/LPS_superman-discosoma_20260309_111214__IMG_6997.jpg"
+    },
+    {
       "id": "20260225_181710__IMG_5993",
       "category": "LPS",
       "species": "Todd\u00B4s Torch",
@@ -1064,6 +1190,20 @@
       "species": "WWC Jingle Bells",
       "price": 250,
       "image": "fotos/LPS_wwc-jingle-bells_20260225_164354__IMG_5282.jpg"
+    },
+    {
+      "id": "20260309_111114__IMG_6992",
+      "category": "LPS",
+      "species": "WWC Pumpkin Eater Chalice",
+      "price": 750,
+      "image": "fotos/LPS_wwc-pumpkin-eater-chalice_20260309_111114__IMG_6992.jpg"
+    },
+    {
+      "id": "20260309_111104__IMG_6991",
+      "category": "LPS",
+      "species": "WWC Pumpkin Eater Chalice",
+      "price": 750,
+      "image": "fotos/LPS_wwc-pumpkin-eater-chalice_20260309_111104__IMG_6991.jpg"
     },
     {
       "id": "20260225_155912__IMG_3643",
@@ -1199,11 +1339,32 @@
       "image": "fotos/SPS_electric-daisy-stylocoeniella_20260225_184949__IMG_6036.jpg"
     },
     {
+      "id": "20260309_105614__IMG_6974",
+      "category": "SPS",
+      "species": "Forest Green Psammocora Md",
+      "price": 300,
+      "image": "fotos/SPS_forest-green-psammocora-md_20260309_105614__IMG_6974.jpg"
+    },
+    {
+      "id": "20260309_110741__IMG_6990",
+      "category": "SPS",
+      "species": "Fruity Monitcap",
+      "price": 300,
+      "image": "fotos/SPS_fruity-monitcap_20260309_110741__IMG_6990.jpg"
+    },
+    {
       "id": "20260225_184938__IMG_6035",
       "category": "SPS",
       "species": "Hot Pink Stylocoeniella",
       "price": 450,
       "image": "fotos/SPS_hot-pink-stylocoeniella_20260225_184938__IMG_6035.jpg"
+    },
+    {
+      "id": "20260309_105837__IMG_6981",
+      "category": "SPS",
+      "species": "JF Sector 01 Favia",
+      "price": 250,
+      "image": "fotos/SPS_jf-sector-01-favia_20260309_105837__IMG_6981.jpg"
     },
     {
       "id": "20260225_155817__IMG_3241",
@@ -1218,6 +1379,13 @@
       "species": "JF Spellbound Cyphastrea",
       "price": 250,
       "image": "fotos/SPS_jf-spellbound-cyphastrea_20260225_155829__IMG_3470.jpg"
+    },
+    {
+      "id": "20260309_105500__IMG_6973",
+      "category": "SPS",
+      "species": "Montipora Roja",
+      "price": 250,
+      "image": "fotos/SPS_montipora-roja_20260309_105500__IMG_6973.jpg"
     },
     {
       "id": "20260225_174852__IMG_5639",
@@ -1246,6 +1414,41 @@
       "species": "Montipora Tropic Thunder",
       "price": 300,
       "image": "fotos/SPS_montipora-tropic-thunder_20260225_174813__IMG_5636.jpg"
+    },
+    {
+      "id": "20260309_105711__IMG_6975",
+      "category": "SPS",
+      "species": "Neon Green Montipora",
+      "price": 200,
+      "image": "fotos/SPS_neon-green-montipora_20260309_105711__IMG_6975.jpg"
+    },
+    {
+      "id": "20260309_105748__IMG_6978",
+      "category": "SPS",
+      "species": "Neon Green Montipora",
+      "price": 200,
+      "image": "fotos/SPS_neon-green-montipora_20260309_105748__IMG_6978.jpg"
+    },
+    {
+      "id": "20260309_105810__IMG_6979",
+      "category": "SPS",
+      "species": "Neon Green Montipora",
+      "price": 200,
+      "image": "fotos/SPS_neon-green-montipora_20260309_105810__IMG_6979.jpg"
+    },
+    {
+      "id": "20260309_105721__IMG_6976",
+      "category": "SPS",
+      "species": "Neon Green Montipora",
+      "price": 250,
+      "image": "fotos/SPS_neon-green-montipora_20260309_105721__IMG_6976.jpg"
+    },
+    {
+      "id": "20260309_105829__IMG_6980",
+      "category": "SPS",
+      "species": "Neon Green Montipora",
+      "price": 250,
+      "image": "fotos/SPS_neon-green-montipora_20260309_105829__IMG_6980.jpg"
     },
     {
       "id": "20260220_142506__IMG_4914",
