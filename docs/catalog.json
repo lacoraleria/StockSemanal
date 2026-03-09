@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-03-09T11:25:25-06:00",
+  "generatedAt": "2026-03-09T13:34:19-06:00",
   "items": [
     {
       "id": "20260309_110121__IMG_6988",
@@ -70,6 +70,13 @@
       "species": "Candy Apple",
       "price": 750,
       "image": "fotos/Blandos_candy-apple_20260225_161848__IMG_4171.jpg"
+    },
+    {
+      "id": "20260309_115318__IMG_7063",
+      "category": "Blandos",
+      "species": "Colonia zoas Mixta",
+      "price": 2500,
+      "image": "fotos/Blandos_colonia-zoas-mixta_20260309_115318__IMG_7063.jpg"
     },
     {
       "id": "20260225_160538__IMG_3911",
@@ -184,6 +191,13 @@
       "image": "fotos/Blandos_miami-sunset_20260225_182457__IMG_6019.jpg"
     },
     {
+      "id": "20260309_111424__IMG_7007",
+      "category": "Blandos",
+      "species": "Milky Way Discosoma",
+      "price": 250,
+      "image": "fotos/Blandos_milky-way-discosoma_20260309_111424__IMG_7007.jpg"
+    },
+    {
       "id": "20260225_182052__IMG_6004",
       "category": "Blandos",
       "species": "Mohawk",
@@ -196,6 +210,13 @@
       "species": "Mohawk",
       "price": 100,
       "image": "fotos/Blandos_mohawk_20260225_182720__IMG_6028.jpg"
+    },
+    {
+      "id": "20260309_114310__IMG_7011",
+      "category": "Blandos",
+      "species": "Panty Dropper Shroom",
+      "price": 450,
+      "image": "fotos/Blandos_panty-dropper-shroom_20260309_114310__IMG_7011.jpg"
     },
     {
       "id": "20260225_161605__IMG_4053",
@@ -224,6 +245,13 @@
       "species": "Ricordea Rainbow",
       "price": 750,
       "image": "fotos/Blandos_ricordea-rainbow_20260225_181927__IMG_5999.jpg"
+    },
+    {
+      "id": "20260309_121917__IMG_7013",
+      "category": "Blandos",
+      "species": "Ricordea Rainbow",
+      "price": 750,
+      "image": "fotos/Blandos_ricordea-rainbow_20260309_121917__IMG_7013.jpg"
     },
     {
       "id": "20260225_182208__IMG_6009",
@@ -357,6 +385,13 @@
       "species": "UFO",
       "price": 200,
       "image": "fotos/Blandos_ufo_20260225_162410__IMG_4576.jpg"
+    },
+    {
+      "id": "20260309_114829__IMG_7015",
+      "category": "Blandos",
+      "species": "Watermelon Discosoma",
+      "price": 250,
+      "image": "fotos/Blandos_watermelon-discosoma_20260309_114829__IMG_7015.jpg"
     },
     {
       "id": "20260225_182341__IMG_6014",
@@ -541,6 +576,13 @@
       "image": "fotos/LPS_acanthastrea-lordhwensis-ultra_20260225_170227__IMG_5546.jpg"
     },
     {
+      "id": "20260309_115249__IMG_7062",
+      "category": "LPS",
+      "species": "Acanthastrea Lordhwensis Ultra",
+      "price": 1250,
+      "image": "fotos/LPS_acanthastrea-lordhwensis-ultra_20260309_115249__IMG_7062.jpg"
+    },
+    {
       "id": "20260225_174619__IMG_5628",
       "category": "LPS",
       "species": "Agape Favia",
@@ -611,6 +653,13 @@
       "image": "fotos/LPS_blastomussa-wellsy-blood_20260225_163705__IMG_4818.jpg"
     },
     {
+      "id": "20260309_114809__IMG_7014",
+      "category": "LPS",
+      "species": "Booberry Duncan",
+      "price": 850,
+      "image": "fotos/LPS_booberry-duncan_20260309_114809__IMG_7014.jpg"
+    },
+    {
       "id": "20260225_161030__IMG_3936",
       "category": "LPS",
       "species": "Cherry Blossom Favia",
@@ -653,6 +702,13 @@
       "image": "fotos/LPS_christmas-favia_20260225_174542__IMG_5626.jpg"
     },
     {
+      "id": "20260309_115224__IMG_7061",
+      "category": "LPS",
+      "species": "Colonia Acanthastrea Rainbow",
+      "price": 8500,
+      "image": "fotos/LPS_colonia-acanthastrea-rainbow_20260309_115224__IMG_7061.jpg"
+    },
+    {
       "id": "20260225_161824__IMG_4062",
       "category": "LPS",
       "species": "Cynarina Green XL",
@@ -693,6 +749,55 @@
       "species": "Dragon Soul Torch",
       "price": 1500,
       "image": "fotos/LPS_dragon-soul-torch_20260225_181730__IMG_5995.jpg"
+    },
+    {
+      "id": "20260309_121742__IMG_7068",
+      "category": "LPS",
+      "species": "Elegance L",
+      "price": 2800,
+      "image": "fotos/LPS_elegance-l_20260309_121742__IMG_7068.jpg"
+    },
+    {
+      "id": "20260309_121756__IMG_7069",
+      "category": "LPS",
+      "species": "Elegance L",
+      "price": 2900,
+      "image": "fotos/LPS_elegance-l_20260309_121756__IMG_7069.jpg"
+    },
+    {
+      "id": "20260309_114204__IMG_7010",
+      "category": "LPS",
+      "species": "Emily\u00B4s Sherbert Favia",
+      "price": 450,
+      "image": "fotos/LPS_emilys-sherbert-favia_20260309_114204__IMG_7010.jpg"
+    },
+    {
+      "id": "20260309_114902__IMG_7017",
+      "category": "LPS",
+      "species": "Emily\u00B4s Sherbert Favia",
+      "price": 450,
+      "image": "fotos/LPS_emilys-sherbert-favia_20260309_114902__IMG_7017.jpg"
+    },
+    {
+      "id": "20260309_114850__IMG_7016",
+      "category": "LPS",
+      "species": "Emily\u00B4s Sherbert Favia",
+      "price": 450,
+      "image": "fotos/LPS_emilys-sherbert-favia_20260309_114850__IMG_7016.jpg"
+    },
+    {
+      "id": "20260309_113145__IMG_7009",
+      "category": "LPS",
+      "species": "Favia Rainbow",
+      "price": 750,
+      "image": "fotos/LPS_favia-rainbow_20260309_113145__IMG_7009.jpg"
+    },
+    {
+      "id": "20260309_113137__IMG_7008",
+      "category": "LPS",
+      "species": "Favia Rainbow",
+      "price": 750,
+      "image": "fotos/LPS_favia-rainbow_20260309_113137__IMG_7008.jpg"
     },
     {
       "id": "20260309_111249__IMG_6999",
@@ -919,6 +1024,20 @@
       "image": "fotos/LPS_lobophyllia-imperial-phoenix_20260225_165353__IMG_5333.jpg"
     },
     {
+      "id": "20260309_121650__IMG_7066",
+      "category": "LPS",
+      "species": "MIami Hurricane Torch doble XL",
+      "price": 2900,
+      "image": "fotos/LPS_miami-hurricane-torch-doble-xl_20260309_121650__IMG_7066.jpg"
+    },
+    {
+      "id": "20260309_121713__IMG_7067",
+      "category": "LPS",
+      "species": "MIami Hurricane Torch L",
+      "price": 2000,
+      "image": "fotos/LPS_miami-hurricane-torch-l_20260309_121713__IMG_7067.jpg"
+    },
+    {
       "id": "20260225_180435__IMG_5982",
       "category": "LPS",
       "species": "Mint Tips Torch",
@@ -1059,6 +1178,48 @@
       "image": "fotos/LPS_pectinia-rainbow_20260225_162902__IMG_4639.jpg"
     },
     {
+      "id": "20260309_121807__IMG_7070",
+      "category": "LPS",
+      "species": "Pectinia Rainbow",
+      "price": 450,
+      "image": "fotos/LPS_pectinia-rainbow_20260309_121807__IMG_7070.jpg"
+    },
+    {
+      "id": "20260309_121820__IMG_7071",
+      "category": "LPS",
+      "species": "Pectinia Rainbow",
+      "price": 450,
+      "image": "fotos/LPS_pectinia-rainbow_20260309_121820__IMG_7071.jpg"
+    },
+    {
+      "id": "20260309_121843__IMG_7073",
+      "category": "LPS",
+      "species": "Pectinia Rainbow",
+      "price": 450,
+      "image": "fotos/LPS_pectinia-rainbow_20260309_121843__IMG_7073.jpg"
+    },
+    {
+      "id": "20260309_121830__IMG_7072",
+      "category": "LPS",
+      "species": "Pectinia Rainbow",
+      "price": 450,
+      "image": "fotos/LPS_pectinia-rainbow_20260309_121830__IMG_7072.jpg"
+    },
+    {
+      "id": "20260309_121903__IMG_7075",
+      "category": "LPS",
+      "species": "Pectinia Rainbow",
+      "price": 450,
+      "image": "fotos/LPS_pectinia-rainbow_20260309_121903__IMG_7075.jpg"
+    },
+    {
+      "id": "20260309_121853__IMG_7074",
+      "category": "LPS",
+      "species": "Pectinia Rainbow",
+      "price": 450,
+      "image": "fotos/LPS_pectinia-rainbow_20260309_121853__IMG_7074.jpg"
+    },
+    {
       "id": "20260225_175939__IMG_5820",
       "category": "LPS",
       "species": "Pink Tips Frogspawn",
@@ -1120,6 +1281,20 @@
       "species": "Todd\u00B4s Torch",
       "price": 1200,
       "image": "fotos/LPS_todds-torch_20260225_181710__IMG_5993.jpg"
+    },
+    {
+      "id": "20260309_121602__IMG_7065",
+      "category": "LPS",
+      "species": "Torch Simpson",
+      "price": 6500,
+      "image": "fotos/LPS_torch-simpson_20260309_121602__IMG_7065.jpg"
+    },
+    {
+      "id": "20260309_121534__IMG_7064",
+      "category": "LPS",
+      "species": "Torch Simpson doble",
+      "price": 8500,
+      "image": "fotos/LPS_torch-simpson-doble_20260309_121534__IMG_7064.jpg"
     },
     {
       "id": "20260225_161635__IMG_4054",
@@ -1449,6 +1624,13 @@
       "species": "Neon Green Montipora",
       "price": 250,
       "image": "fotos/SPS_neon-green-montipora_20260309_105829__IMG_6980.jpg"
+    },
+    {
+      "id": "20260309_114324__IMG_7012",
+      "category": "SPS",
+      "species": "Neon Green Montipora",
+      "price": 150,
+      "image": "fotos/SPS_neon-green-montipora_20260309_114324__IMG_7012.jpg"
     },
     {
       "id": "20260220_142506__IMG_4914",
