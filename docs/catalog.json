@@ -1,34 +1,6 @@
 ﻿{
-  "generatedAt": "2026-03-06T18:04:41-06:00",
+  "generatedAt": "2026-03-08T18:33:43-06:00",
   "items": [
-    {
-      "id": "20260225_160046__IMG_3910",
-      "category": "Blandos",
-      "species": "Alpha and Omega",
-      "price": 200,
-      "image": "fotos/Blandos_alpha-and-omega_20260225_160046__IMG_3910.jpg"
-    },
-    {
-      "id": "20260225_164846__IMG_5299",
-      "category": "Blandos",
-      "species": "Alpha and Omega",
-      "price": 200,
-      "image": "fotos/Blandos_alpha-and-omega_20260225_164846__IMG_5299.jpg"
-    },
-    {
-      "id": "20260225_164859__IMG_5300",
-      "category": "Blandos",
-      "species": "Alpha and Omega",
-      "price": 250,
-      "image": "fotos/Blandos_alpha-and-omega_20260225_164859__IMG_5300.jpg"
-    },
-    {
-      "id": "20260225_161318__IMG_4048",
-      "category": "Blandos",
-      "species": "Black Hornets",
-      "price": 300,
-      "image": "fotos/Blandos_black-hornets_20260225_161318__IMG_4048.jpg"
-    },
     {
       "id": "20260225_164436__IMG_5288",
       "category": "Blandos",
@@ -79,13 +51,6 @@
       "image": "fotos/Blandos_candy-apple_20260225_162346__IMG_4572.jpg"
     },
     {
-      "id": "20260225_164522__IMG_5292",
-      "category": "Blandos",
-      "species": "Candy Apple",
-      "price": 450,
-      "image": "fotos/Blandos_candy-apple_20260225_164522__IMG_5292.jpg"
-    },
-    {
       "id": "20260225_161529__IMG_4052",
       "category": "Blandos",
       "species": "Candy Apple",
@@ -98,20 +63,6 @@
       "species": "Candy Apple",
       "price": 750,
       "image": "fotos/Blandos_candy-apple_20260225_161848__IMG_4171.jpg"
-    },
-    {
-      "id": "20260225_164509__IMG_5290",
-      "category": "Blandos",
-      "species": "Candy Apple",
-      "price": 750,
-      "image": "fotos/Blandos_candy-apple_20260225_164509__IMG_5290.jpg"
-    },
-    {
-      "id": "20260225_182107__IMG_6005",
-      "category": "Blandos",
-      "species": "Combo Zoas",
-      "price": 250,
-      "image": "fotos/Blandos_combo-zoas_20260225_182107__IMG_6005.jpg"
     },
     {
       "id": "20260225_160538__IMG_3911",
@@ -135,13 +86,6 @@
       "image": "fotos/Blandos_gatorade_20260225_182355__IMG_6015.jpg"
     },
     {
-      "id": "20260225_181952__IMG_6002",
-      "category": "Blandos",
-      "species": "Gatorade",
-      "price": 200,
-      "image": "fotos/Blandos_gatorade_20260225_181952__IMG_6002.jpg"
-    },
-    {
       "id": "20260225_182410__IMG_6016",
       "category": "Blandos",
       "species": "Gatorade",
@@ -163,25 +107,11 @@
       "image": "fotos/Blandos_gatorade_20260225_182421__IMG_6017.jpg"
     },
     {
-      "id": "20260225_162015__IMG_4228",
-      "category": "Blandos",
-      "species": "Golden Hornets",
-      "price": 250,
-      "image": "fotos/Blandos_golden-hornets_20260225_162015__IMG_4228.jpg"
-    },
-    {
       "id": "20260225_182236__IMG_6011",
       "category": "Blandos",
       "species": "Green PE",
       "price": 150,
       "image": "fotos/Blandos_green-pe_20260225_182236__IMG_6011.jpg"
-    },
-    {
-      "id": "20260225_182250__IMG_6012",
-      "category": "Blandos",
-      "species": "Green PE",
-      "price": 200,
-      "image": "fotos/Blandos_green-pe_20260225_182250__IMG_6012.jpg"
     },
     {
       "id": "20260225_182228__IMG_6010",
@@ -210,20 +140,6 @@
       "species": "Jawbreaker Hornets",
       "price": 250,
       "image": "fotos/Blandos_jawbreaker-hornets_20260225_161058__IMG_4024.jpg"
-    },
-    {
-      "id": "20260225_164832__IMG_5298",
-      "category": "Blandos",
-      "species": "Kamikaze Kush",
-      "price": 450,
-      "image": "fotos/Blandos_kamikaze-kush_20260225_164832__IMG_5298.jpg"
-    },
-    {
-      "id": "20260225_175126__IMG_5646",
-      "category": "Blandos",
-      "species": "Kamikaze Kush",
-      "price": 650,
-      "image": "fotos/Blandos_kamikaze-kush_20260225_175126__IMG_5646.jpg"
     },
     {
       "id": "20260225_163623__IMG_4803",
@@ -259,13 +175,6 @@
       "species": "Miami Sunset",
       "price": 200,
       "image": "fotos/Blandos_miami-sunset_20260225_182457__IMG_6019.jpg"
-    },
-    {
-      "id": "20260225_175204__IMG_5647",
-      "category": "Blandos",
-      "species": "Mind Trick",
-      "price": 2500,
-      "image": "fotos/Blandos_mind-trick_20260225_175204__IMG_5647.jpg"
     },
     {
       "id": "20260225_182052__IMG_6004",
@@ -422,39 +331,11 @@
       "image": "fotos/Blandos_spider-flakes_20260225_162618__IMG_4579.jpg"
     },
     {
-      "id": "20260225_162038__IMG_4229",
-      "category": "Blandos",
-      "species": "Starfigther\u002BDaisy",
-      "price": 250,
-      "image": "fotos/Blandos_starfigtherdaisy_20260225_162038__IMG_4229.jpg"
-    },
-    {
       "id": "20260225_182701__IMG_6027",
       "category": "Blandos",
       "species": "Starwars Revolution",
       "price": 350,
       "image": "fotos/Blandos_starwars-revolution_20260225_182701__IMG_6027.jpg"
-    },
-    {
-      "id": "20260225_175105__IMG_5645",
-      "category": "Blandos",
-      "species": "Stratocaster",
-      "price": 850,
-      "image": "fotos/Blandos_stratocaster_20260225_175105__IMG_5645.jpg"
-    },
-    {
-      "id": "20260225_164802__IMG_5296",
-      "category": "Blandos",
-      "species": "Stratocaster \u002B Kamikaze",
-      "price": 1200,
-      "image": "fotos/Blandos_stratocaster-kamikaze_20260225_164802__IMG_5296.jpg"
-    },
-    {
-      "id": "20260220_142443__IMG_4906",
-      "category": "Blandos",
-      "species": "Stratocaster y Kamikaze Kush",
-      "price": 1250,
-      "image": "fotos/Blandos_stratocaster-y-kamikaze-kush_20260220_142443__IMG_4906.jpg"
     },
     {
       "id": "20260225_162257__IMG_4569",
@@ -527,27 +408,6 @@
       "image": "fotos/LPS_acanthastrea-echinata-halloween-toxic_20260225_174402__IMG_5620.jpg"
     },
     {
-      "id": "20260225_174347__IMG_5619",
-      "category": "LPS",
-      "species": "Acanthastrea Echinata Halloween Toxic",
-      "price": 350,
-      "image": "fotos/LPS_acanthastrea-echinata-halloween-toxic_20260225_174347__IMG_5619.jpg"
-    },
-    {
-      "id": "20260225_174416__IMG_5621",
-      "category": "LPS",
-      "species": "Acanthastrea Echinata Halloween Toxic",
-      "price": 350,
-      "image": "fotos/LPS_acanthastrea-echinata-halloween-toxic_20260225_174416__IMG_5621.jpg"
-    },
-    {
-      "id": "20260225_174432__IMG_5622",
-      "category": "LPS",
-      "species": "Acanthastrea Echinata Halloween Toxic",
-      "price": 350,
-      "image": "fotos/LPS_acanthastrea-echinata-halloween-toxic_20260225_174432__IMG_5622.jpg"
-    },
-    {
       "id": "20260225_163309__IMG_4693",
       "category": "LPS",
       "species": "Acanthastrea Echinata Toxic",
@@ -595,13 +455,6 @@
       "species": "Acanthastrea Echinata Toxic",
       "price": 250,
       "image": "fotos/LPS_acanthastrea-echinata-toxic_20260225_174517__IMG_5624.jpg"
-    },
-    {
-      "id": "20260225_163111__IMG_4690",
-      "category": "LPS",
-      "species": "Acanthastrea Lordhwensis Rainbow",
-      "price": 350,
-      "image": "fotos/LPS_acanthastrea-lordhwensis-rainbow_20260225_163111__IMG_4690.jpg"
     },
     {
       "id": "20260225_170120__IMG_5543",
@@ -667,25 +520,11 @@
       "image": "fotos/LPS_acanthastrea-lordhwensis-ultra_20260225_163034__IMG_4689.jpg"
     },
     {
-      "id": "20260225_163025__IMG_4688",
-      "category": "LPS",
-      "species": "Acanthastrea Lordhwensis Ultra",
-      "price": 350,
-      "image": "fotos/LPS_acanthastrea-lordhwensis-ultra_20260225_163025__IMG_4688.jpg"
-    },
-    {
       "id": "20260225_170227__IMG_5546",
       "category": "LPS",
       "species": "Acanthastrea Lordhwensis Ultra",
       "price": 650,
       "image": "fotos/LPS_acanthastrea-lordhwensis-ultra_20260225_170227__IMG_5546.jpg"
-    },
-    {
-      "id": "20260225_170210__IMG_5545",
-      "category": "LPS",
-      "species": "Acanthastrea Lordhwensis Ultra",
-      "price": 650,
-      "image": "fotos/LPS_acanthastrea-lordhwensis-ultra_20260225_170210__IMG_5545.jpg"
     },
     {
       "id": "20260225_174619__IMG_5628",
@@ -721,13 +560,6 @@
       "species": "Black Mamba Torch",
       "price": 1200,
       "image": "fotos/LPS_black-mamba-torch_20260225_181748__IMG_5996.jpg"
-    },
-    {
-      "id": "20260225_162129__IMG_4241",
-      "category": "LPS",
-      "species": "Blastomussa Joker",
-      "price": 450,
-      "image": "fotos/LPS_blastomussa-joker_20260225_162129__IMG_4241.jpg"
     },
     {
       "id": "20260225_163730__IMG_4820",
@@ -779,13 +611,6 @@
       "image": "fotos/LPS_cherry-blossom-favia_20260225_173939__IMG_5608.jpg"
     },
     {
-      "id": "20260225_174705__IMG_5632",
-      "category": "LPS",
-      "species": "Christmas Favia",
-      "price": 200,
-      "image": "fotos/LPS_christmas-favia_20260225_174705__IMG_5632.jpg"
-    },
-    {
       "id": "20260225_174639__IMG_5630",
       "category": "LPS",
       "species": "Christmas Favia",
@@ -835,13 +660,6 @@
       "image": "fotos/LPS_dragon-soul-torch_20260225_181518__IMG_5985.jpg"
     },
     {
-      "id": "20260225_181553__IMG_5987",
-      "category": "LPS",
-      "species": "Dragon Soul Torch",
-      "price": 1500,
-      "image": "fotos/LPS_dragon-soul-torch_20260225_181553__IMG_5987.jpg"
-    },
-    {
       "id": "20260225_181636__IMG_5991",
       "category": "LPS",
       "species": "Dragon Soul Torch",
@@ -861,13 +679,6 @@
       "species": "Dragon Soul Torch",
       "price": 1500,
       "image": "fotos/LPS_dragon-soul-torch_20260225_181730__IMG_5995.jpg"
-    },
-    {
-      "id": "20260225_115303__IMG_4799",
-      "category": "LPS",
-      "species": "Fairy Bloom Goniopora",
-      "price": 990,
-      "image": "fotos/LPS_fairy-bloom-goniopora_20260225_115303__IMG_4799.jpg"
     },
     {
       "id": "20260225_175844__IMG_5818",
@@ -952,13 +763,6 @@
       "species": "Hammer Marbled",
       "price": 1200,
       "image": "fotos/LPS_hammer-marbled_20260225_175506__IMG_5812.jpg"
-    },
-    {
-      "id": "20260225_181815__IMG_5998",
-      "category": "LPS",
-      "species": "Holy Grail US",
-      "price": 2500,
-      "image": "fotos/LPS_holy-grail-us_20260225_181815__IMG_5998.jpg"
     },
     {
       "id": "20260225_181605__IMG_5988",
@@ -1129,13 +933,6 @@
       "image": "fotos/LPS_pectinia-rainbow_20260225_162805__IMG_4636.jpg"
     },
     {
-      "id": "20260225_162917__IMG_4640",
-      "category": "LPS",
-      "species": "Pectinia Rainbow",
-      "price": 450,
-      "image": "fotos/LPS_pectinia-rainbow_20260225_162917__IMG_4640.jpg"
-    },
-    {
       "id": "20260225_162902__IMG_4639",
       "category": "LPS",
       "species": "Pectinia Rainbow",
@@ -1225,13 +1022,6 @@
       "species": "War Paint Chalice",
       "price": 350,
       "image": "fotos/LPS_war-paint-chalice_20260225_174155__IMG_5615.jpg"
-    },
-    {
-      "id": "20260225_164340__IMG_4988",
-      "category": "LPS",
-      "species": "Wellsophyllia",
-      "price": 2600,
-      "image": "fotos/LPS_wellsophyllia_20260225_164340__IMG_4988.jpg"
     },
     {
       "id": "20260225_164346__IMG_4989",
@@ -1456,20 +1246,6 @@
       "species": "Montipora Tropic Thunder",
       "price": 300,
       "image": "fotos/SPS_montipora-tropic-thunder_20260225_174813__IMG_5636.jpg"
-    },
-    {
-      "id": "20260225_182603__IMG_6024",
-      "category": "SPS",
-      "species": "Orange Setosa",
-      "price": 200,
-      "image": "fotos/SPS_orange-setosa_20260225_182603__IMG_6024.jpg"
-    },
-    {
-      "id": "20260225_182610__IMG_6025",
-      "category": "SPS",
-      "species": "Orange Setosa",
-      "price": 250,
-      "image": "fotos/SPS_orange-setosa_20260225_182610__IMG_6025.jpg"
     },
     {
       "id": "20260220_142506__IMG_4914",
