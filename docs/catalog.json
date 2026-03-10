@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-03-09T18:00:13-06:00",
+  "generatedAt": "2026-03-09T20:01:27-06:00",
   "items": [
     {
       "id": "20260309_110121__IMG_6988",
@@ -604,27 +604,6 @@
       "image": "fotos/LPS_agape-favia_20260225_174630__IMG_5629.jpg"
     },
     {
-      "id": "20260309_170545__IMG_7098",
-      "category": "LPS",
-      "species": "Almeja Tridacna XL",
-      "price": 4900,
-      "image": "fotos/LPS_almeja-tridacna-xl_20260309_170545__IMG_7098.jpg"
-    },
-    {
-      "id": "20260309_170533__IMG_7097",
-      "category": "LPS",
-      "species": "Almeja Tridacna XL",
-      "price": 4900,
-      "image": "fotos/LPS_almeja-tridacna-xl_20260309_170533__IMG_7097.jpg"
-    },
-    {
-      "id": "20260309_170604__IMG_7099",
-      "category": "LPS",
-      "species": "Almeja Tridacna XL",
-      "price": 4900,
-      "image": "fotos/LPS_almeja-tridacna-xl_20260309_170604__IMG_7099.jpg"
-    },
-    {
       "id": "20260225_181756__IMG_5997",
       "category": "LPS",
       "species": "Black Mamba Torch",
@@ -819,34 +798,6 @@
       "species": "Favia Rainbow",
       "price": 750,
       "image": "fotos/LPS_favia-rainbow_20260309_113137__IMG_7008.jpg"
-    },
-    {
-      "id": "20260309_111249__IMG_6999",
-      "category": "LPS",
-      "species": "Fruity Monitcap",
-      "price": 200,
-      "image": "fotos/LPS_fruity-monitcap_20260309_111249__IMG_6999.jpg"
-    },
-    {
-      "id": "20260309_111342__IMG_7004",
-      "category": "LPS",
-      "species": "Fruity Monticap",
-      "price": 200,
-      "image": "fotos/LPS_fruity-monticap_20260309_111342__IMG_7004.jpg"
-    },
-    {
-      "id": "20260309_111324__IMG_7002",
-      "category": "LPS",
-      "species": "Fruity Monticap",
-      "price": 200,
-      "image": "fotos/LPS_fruity-monticap_20260309_111324__IMG_7002.jpg"
-    },
-    {
-      "id": "20260309_111356__IMG_7005",
-      "category": "LPS",
-      "species": "Fruity Monticap",
-      "price": 200,
-      "image": "fotos/LPS_fruity-monticap_20260309_111356__IMG_7005.jpg"
     },
     {
       "id": "20260225_175844__IMG_5818",
@@ -1134,27 +1085,6 @@
       "species": "Ora Easter Egg Chalice",
       "price": 450,
       "image": "fotos/LPS_ora-easter-egg-chalice_20260225_170410__IMG_5606.jpg"
-    },
-    {
-      "id": "20260309_111233__IMG_6998",
-      "category": "LPS",
-      "species": "Orange Monticap",
-      "price": 200,
-      "image": "fotos/LPS_orange-monticap_20260309_111233__IMG_6998.jpg"
-    },
-    {
-      "id": "20260309_111404__IMG_7006",
-      "category": "LPS",
-      "species": "Orange Monticap",
-      "price": 200,
-      "image": "fotos/LPS_orange-monticap_20260309_111404__IMG_7006.jpg"
-    },
-    {
-      "id": "20260309_111334__IMG_7003",
-      "category": "LPS",
-      "species": "Orange Monticap",
-      "price": 250,
-      "image": "fotos/LPS_orange-monticap_20260309_111334__IMG_7003.jpg"
     },
     {
       "id": "20260225_162729__IMG_4633",
@@ -1507,11 +1437,39 @@
       "image": "fotos/SPS_forest-green-psammocora-md_20260309_105614__IMG_6974.jpg"
     },
     {
+      "id": "20260309_111249__IMG_6999",
+      "category": "SPS",
+      "species": "Fruity Monitcap",
+      "price": 200,
+      "image": "fotos/SPS_fruity-monitcap_20260309_111249__IMG_6999.jpg"
+    },
+    {
       "id": "20260309_110741__IMG_6990",
       "category": "SPS",
       "species": "Fruity Monitcap",
       "price": 300,
       "image": "fotos/SPS_fruity-monitcap_20260309_110741__IMG_6990.jpg"
+    },
+    {
+      "id": "20260309_111356__IMG_7005",
+      "category": "SPS",
+      "species": "Fruity Monticap",
+      "price": 200,
+      "image": "fotos/SPS_fruity-monticap_20260309_111356__IMG_7005.jpg"
+    },
+    {
+      "id": "20260309_111324__IMG_7002",
+      "category": "SPS",
+      "species": "Fruity Monticap",
+      "price": 200,
+      "image": "fotos/SPS_fruity-monticap_20260309_111324__IMG_7002.jpg"
+    },
+    {
+      "id": "20260309_111342__IMG_7004",
+      "category": "SPS",
+      "species": "Fruity Monticap",
+      "price": 200,
+      "image": "fotos/SPS_fruity-monticap_20260309_111342__IMG_7004.jpg"
     },
     {
       "id": "20260225_184938__IMG_6035",
@@ -1619,6 +1577,27 @@
       "image": "fotos/SPS_neon-green-montipora_20260309_114324__IMG_7012.jpg"
     },
     {
+      "id": "20260309_111334__IMG_7003",
+      "category": "SPS",
+      "species": "Orange Monticap",
+      "price": 250,
+      "image": "fotos/SPS_orange-monticap_20260309_111334__IMG_7003.jpg"
+    },
+    {
+      "id": "20260309_111404__IMG_7006",
+      "category": "SPS",
+      "species": "Orange Monticap",
+      "price": 200,
+      "image": "fotos/SPS_orange-monticap_20260309_111404__IMG_7006.jpg"
+    },
+    {
+      "id": "20260309_111233__IMG_6998",
+      "category": "SPS",
+      "species": "Orange Monticap",
+      "price": 200,
+      "image": "fotos/SPS_orange-monticap_20260309_111233__IMG_6998.jpg"
+    },
+    {
       "id": "20260220_142506__IMG_4914",
       "category": "SPS",
       "species": "WWC Copperhead Cyphastrea",
@@ -1652,6 +1631,27 @@
       "species": "Ocellaris",
       "price": 300,
       "image": "fotos/Peces_ocellaris_20260226_202538__Ocellaris.jpg"
+    },
+    {
+      "id": "20260309_170604__IMG_7099",
+      "category": "Invertebrados",
+      "species": "Almeja Tridacna XL",
+      "price": 4900,
+      "image": "fotos/Invertebrados_almeja-tridacna-xl_20260309_170604__IMG_7099.jpg"
+    },
+    {
+      "id": "20260309_170533__IMG_7097",
+      "category": "Invertebrados",
+      "species": "Almeja Tridacna XL",
+      "price": 4900,
+      "image": "fotos/Invertebrados_almeja-tridacna-xl_20260309_170533__IMG_7097.jpg"
+    },
+    {
+      "id": "20260309_170545__IMG_7098",
+      "category": "Invertebrados",
+      "species": "Almeja Tridacna XL",
+      "price": 4900,
+      "image": "fotos/Invertebrados_almeja-tridacna-xl_20260309_170545__IMG_7098.jpg"
     },
     {
       "id": "20260225_164207__IMG_4902",
