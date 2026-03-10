@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-03-09T17:04:02-06:00",
+  "generatedAt": "2026-03-09T18:00:13-06:00",
   "items": [
     {
       "id": "20260309_110121__IMG_6988",
@@ -602,6 +602,27 @@
       "species": "Agape Favia",
       "price": 300,
       "image": "fotos/LPS_agape-favia_20260225_174630__IMG_5629.jpg"
+    },
+    {
+      "id": "20260309_170545__IMG_7098",
+      "category": "LPS",
+      "species": "Almeja Tridacna XL",
+      "price": 4900,
+      "image": "fotos/LPS_almeja-tridacna-xl_20260309_170545__IMG_7098.jpg"
+    },
+    {
+      "id": "20260309_170533__IMG_7097",
+      "category": "LPS",
+      "species": "Almeja Tridacna XL",
+      "price": 4900,
+      "image": "fotos/LPS_almeja-tridacna-xl_20260309_170533__IMG_7097.jpg"
+    },
+    {
+      "id": "20260309_170604__IMG_7099",
+      "category": "LPS",
+      "species": "Almeja Tridacna XL",
+      "price": 4900,
+      "image": "fotos/LPS_almeja-tridacna-xl_20260309_170604__IMG_7099.jpg"
     },
     {
       "id": "20260225_181756__IMG_5997",
