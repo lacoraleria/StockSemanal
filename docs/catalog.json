@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-03-09T21:00:08-06:00",
+  "generatedAt": "2026-03-11T15:23:12-06:00",
   "items": [
     {
       "id": "20260309_110121__IMG_6988",
@@ -1633,6 +1633,13 @@
       "image": "fotos/Peces_ocellaris_20260226_202538__Ocellaris.jpg"
     },
     {
+      "id": "20260311_140344__PezLija",
+      "category": "Peces",
+      "species": "Pez Lija Ch",
+      "price": 450,
+      "image": "fotos/Peces_pez-lija-ch_20260311_140344__PezLija.jpg"
+    },
+    {
       "id": "20260309_170604__IMG_7099",
       "category": "Invertebrados",
       "species": "Almeja Tridacna XL",
@@ -1666,6 +1673,34 @@
       "species": "An\u00E9mona Cuadricolor",
       "price": 300,
       "image": "fotos/Invertebrados_anemona-cuadricolor_20260225_164215__IMG_4903.jpg"
+    },
+    {
+      "id": "20260311_140157__CamaronPimienta",
+      "category": "Invertebrados",
+      "species": "Camar\u00F3n Pimienta ch",
+      "price": 280,
+      "image": "fotos/Invertebrados_camaron-pimienta-ch_20260311_140157__CamaronPimienta.jpg"
+    },
+    {
+      "id": "20260311_140221__CangrejoEsmeralda",
+      "category": "Invertebrados",
+      "species": "Cangrejo Esmeralda",
+      "price": 70,
+      "image": "fotos/Invertebrados_cangrejo-esmeralda_20260311_140221__CangrejoEsmeralda.jpg"
+    },
+    {
+      "id": "20260311_140256__ErmitanoPatasAzules",
+      "category": "Invertebrados",
+      "species": "Ermita\u00F1o Patas Azules",
+      "price": 35,
+      "image": "fotos/Invertebrados_ermitano-patas-azules_20260311_140256__ErmitanoPatasAzules.jpg"
+    },
+    {
+      "id": "20260311_140316__OrangeStarfish",
+      "category": "Invertebrados",
+      "species": "Orange Starfish",
+      "price": 180,
+      "image": "fotos/Invertebrados_orange-starfish_20260311_140316__OrangeStarfish.jpg"
     }
   ]
 }
