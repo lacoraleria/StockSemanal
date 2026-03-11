@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-03-11T15:23:12-06:00",
+  "generatedAt": "2026-03-11T15:24:01-06:00",
   "items": [
     {
       "id": "20260309_110121__IMG_6988",
@@ -14,13 +14,6 @@
       "species": "Candy Apple",
       "price": 250,
       "image": "fotos/Blandos_candy-apple_20260225_164436__IMG_5288.jpg"
-    },
-    {
-      "id": "20260225_162328__IMG_4571",
-      "category": "Blandos",
-      "species": "Candy Apple",
-      "price": 350,
-      "image": "fotos/Blandos_candy-apple_20260225_162328__IMG_4571.jpg"
     },
     {
       "id": "20260225_164451__IMG_5289",
@@ -492,20 +485,6 @@
       "image": "fotos/LPS_acanthastrea-echinata-toxic_20260225_174010__IMG_5611.jpg"
     },
     {
-      "id": "20260225_163300__IMG_4692",
-      "category": "LPS",
-      "species": "Acanthastrea Echinata Toxic",
-      "price": 250,
-      "image": "fotos/LPS_acanthastrea-echinata-toxic_20260225_163300__IMG_4692.jpg"
-    },
-    {
-      "id": "20260225_174517__IMG_5624",
-      "category": "LPS",
-      "species": "Acanthastrea Echinata Toxic",
-      "price": 250,
-      "image": "fotos/LPS_acanthastrea-echinata-toxic_20260225_174517__IMG_5624.jpg"
-    },
-    {
       "id": "20260225_170120__IMG_5543",
       "category": "LPS",
       "species": "Acanthastrea Lordhwensis Rainbow",
@@ -532,13 +511,6 @@
       "species": "Acanthastrea Lordhwensis Rainbow",
       "price": 850,
       "image": "fotos/LPS_acanthastrea-lordhwensis-rainbow_20260225_165724__IMG_5537.jpg"
-    },
-    {
-      "id": "20260225_170021__IMG_5540",
-      "category": "LPS",
-      "species": "Acanthastrea Lordhwensis Rainbow",
-      "price": 850,
-      "image": "fotos/LPS_acanthastrea-lordhwensis-rainbow_20260225_170021__IMG_5540.jpg"
     },
     {
       "id": "20260225_170007__IMG_5539",
@@ -590,32 +562,11 @@
       "image": "fotos/LPS_agape-favia_20260225_174619__IMG_5628.jpg"
     },
     {
-      "id": "20260225_174611__IMG_5627",
-      "category": "LPS",
-      "species": "Agape Favia",
-      "price": 300,
-      "image": "fotos/LPS_agape-favia_20260225_174611__IMG_5627.jpg"
-    },
-    {
       "id": "20260225_174630__IMG_5629",
       "category": "LPS",
       "species": "Agape Favia",
       "price": 300,
       "image": "fotos/LPS_agape-favia_20260225_174630__IMG_5629.jpg"
-    },
-    {
-      "id": "20260225_181756__IMG_5997",
-      "category": "LPS",
-      "species": "Black Mamba Torch",
-      "price": 1200,
-      "image": "fotos/LPS_black-mamba-torch_20260225_181756__IMG_5997.jpg"
-    },
-    {
-      "id": "20260225_181748__IMG_5996",
-      "category": "LPS",
-      "species": "Black Mamba Torch",
-      "price": 1200,
-      "image": "fotos/LPS_black-mamba-torch_20260225_181748__IMG_5996.jpg"
     },
     {
       "id": "20260225_163730__IMG_4820",
@@ -646,46 +597,11 @@
       "image": "fotos/LPS_blastomussa-rainbow-3c_20260225_164108__IMG_4823.jpg"
     },
     {
-      "id": "20260225_163705__IMG_4818",
-      "category": "LPS",
-      "species": "Blastomussa Wellsy Blood",
-      "price": 450,
-      "image": "fotos/LPS_blastomussa-wellsy-blood_20260225_163705__IMG_4818.jpg"
-    },
-    {
-      "id": "20260309_114809__IMG_7014",
-      "category": "LPS",
-      "species": "Booberry Duncan",
-      "price": 850,
-      "image": "fotos/LPS_booberry-duncan_20260309_114809__IMG_7014.jpg"
-    },
-    {
       "id": "20260225_161030__IMG_3936",
       "category": "LPS",
       "species": "Cherry Blossom Favia",
       "price": 300,
       "image": "fotos/LPS_cherry-blossom-favia_20260225_161030__IMG_3936.jpg"
-    },
-    {
-      "id": "20260225_173939__IMG_5608",
-      "category": "LPS",
-      "species": "Cherry Blossom Favia",
-      "price": 300,
-      "image": "fotos/LPS_cherry-blossom-favia_20260225_173939__IMG_5608.jpg"
-    },
-    {
-      "id": "20260225_174639__IMG_5630",
-      "category": "LPS",
-      "species": "Christmas Favia",
-      "price": 250,
-      "image": "fotos/LPS_christmas-favia_20260225_174639__IMG_5630.jpg"
-    },
-    {
-      "id": "20260225_174653__IMG_5631",
-      "category": "LPS",
-      "species": "Christmas Favia",
-      "price": 250,
-      "image": "fotos/LPS_christmas-favia_20260225_174653__IMG_5631.jpg"
     },
     {
       "id": "20260225_174536__IMG_5625",
@@ -737,13 +653,6 @@
       "image": "fotos/LPS_dragon-soul-torch_20260225_181636__IMG_5991.jpg"
     },
     {
-      "id": "20260225_181653__IMG_5992",
-      "category": "LPS",
-      "species": "Dragon Soul Torch",
-      "price": 1500,
-      "image": "fotos/LPS_dragon-soul-torch_20260225_181653__IMG_5992.jpg"
-    },
-    {
       "id": "20260225_181730__IMG_5995",
       "category": "LPS",
       "species": "Dragon Soul Torch",
@@ -765,13 +674,6 @@
       "image": "fotos/LPS_elegance-l_20260309_121756__IMG_7069.jpg"
     },
     {
-      "id": "20260309_114204__IMG_7010",
-      "category": "LPS",
-      "species": "Emily\u00B4s Sherbert Favia",
-      "price": 450,
-      "image": "fotos/LPS_emilys-sherbert-favia_20260309_114204__IMG_7010.jpg"
-    },
-    {
       "id": "20260309_114902__IMG_7017",
       "category": "LPS",
       "species": "Emily\u00B4s Sherbert Favia",
@@ -786,25 +688,11 @@
       "image": "fotos/LPS_emilys-sherbert-favia_20260309_114850__IMG_7016.jpg"
     },
     {
-      "id": "20260309_113145__IMG_7009",
-      "category": "LPS",
-      "species": "Favia Rainbow",
-      "price": 750,
-      "image": "fotos/LPS_favia-rainbow_20260309_113145__IMG_7009.jpg"
-    },
-    {
       "id": "20260309_113137__IMG_7008",
       "category": "LPS",
       "species": "Favia Rainbow",
       "price": 750,
       "image": "fotos/LPS_favia-rainbow_20260309_113137__IMG_7008.jpg"
-    },
-    {
-      "id": "20260225_175844__IMG_5818",
-      "category": "LPS",
-      "species": "Gold Digger Hammer",
-      "price": 950,
-      "image": "fotos/LPS_gold-digger-hammer_20260225_175844__IMG_5818.jpg"
     },
     {
       "id": "20260225_180059__IMG_5824",
@@ -826,13 +714,6 @@
       "species": "Golden Dragon Chalice",
       "price": 300,
       "image": "fotos/LPS_golden-dragon-chalice_20260225_174722__IMG_5633.jpg"
-    },
-    {
-      "id": "20260225_174747__IMG_5635",
-      "category": "LPS",
-      "species": "Golden Dragon Chalice",
-      "price": 300,
-      "image": "fotos/LPS_golden-dragon-chalice_20260225_174747__IMG_5635.jpg"
     },
     {
       "id": "20260225_174735__IMG_5634",
@@ -926,13 +807,6 @@
       "image": "fotos/LPS_jf-dayglow-favia_20260309_111136__IMG_6994.jpg"
     },
     {
-      "id": "20260309_111150__IMG_6996",
-      "category": "LPS",
-      "species": "JF Dayglow Favia",
-      "price": 350,
-      "image": "fotos/LPS_jf-dayglow-favia_20260309_111150__IMG_6996.jpg"
-    },
-    {
       "id": "20260309_105950__IMG_6986",
       "category": "LPS",
       "species": "JF Dayglow Favia",
@@ -996,13 +870,6 @@
       "image": "fotos/LPS_lobophyllia-imperial-phoenix_20260225_165353__IMG_5333.jpg"
     },
     {
-      "id": "20260309_121650__IMG_7066",
-      "category": "LPS",
-      "species": "MIami Hurricane Torch doble XL",
-      "price": 2900,
-      "image": "fotos/LPS_miami-hurricane-torch-doble-xl_20260309_121650__IMG_7066.jpg"
-    },
-    {
       "id": "20260309_121713__IMG_7067",
       "category": "LPS",
       "species": "MIami Hurricane Torch L",
@@ -1045,13 +912,6 @@
       "image": "fotos/LPS_ora-easter-egg-chalice_20260225_164646__IMG_5293.jpg"
     },
     {
-      "id": "20260225_175218__IMG_5648",
-      "category": "LPS",
-      "species": "Ora Easter Egg Chalice",
-      "price": 350,
-      "image": "fotos/LPS_ora-easter-egg-chalice_20260225_175218__IMG_5648.jpg"
-    },
-    {
       "id": "20260225_175302__IMG_5651",
       "category": "LPS",
       "species": "Ora Easter Egg Chalice",
@@ -1092,13 +952,6 @@
       "species": "Pectinia Rainbow",
       "price": 450,
       "image": "fotos/LPS_pectinia-rainbow_20260225_162729__IMG_4633.jpg"
-    },
-    {
-      "id": "20260309_121807__IMG_7070",
-      "category": "LPS",
-      "species": "Pectinia Rainbow",
-      "price": 450,
-      "image": "fotos/LPS_pectinia-rainbow_20260309_121807__IMG_7070.jpg"
     },
     {
       "id": "20260309_121820__IMG_7071",
@@ -1155,13 +1008,6 @@
       "species": "Rainbow Kaleidoscope Hammer",
       "price": 1500,
       "image": "fotos/LPS_rainbow-kaleidoscope-hammer_20260225_175656__IMG_5815.jpg"
-    },
-    {
-      "id": "20260225_175649__IMG_5814",
-      "category": "LPS",
-      "species": "Rainbow Kaleidoscope Hammer",
-      "price": 1500,
-      "image": "fotos/LPS_rainbow-kaleidoscope-hammer_20260225_175649__IMG_5814.jpg"
     },
     {
       "id": "20260225_175721__IMG_5817",
@@ -1227,13 +1073,6 @@
       "image": "fotos/LPS_tranquility-favia_20260225_185006__IMG_6038.jpg"
     },
     {
-      "id": "20260225_174037__IMG_5612",
-      "category": "LPS",
-      "species": "War Paint Chalice",
-      "price": 350,
-      "image": "fotos/LPS_war-paint-chalice_20260225_174037__IMG_5612.jpg"
-    },
-    {
       "id": "20260225_174155__IMG_5615",
       "category": "LPS",
       "species": "War Paint Chalice",
@@ -1262,13 +1101,6 @@
       "image": "fotos/LPS_willy-wonka-hammer_20260225_180038__IMG_5823.jpg"
     },
     {
-      "id": "20260225_180143__IMG_5825",
-      "category": "LPS",
-      "species": "Willy Wonka Hammer",
-      "price": 1500,
-      "image": "fotos/LPS_willy-wonka-hammer_20260225_180143__IMG_5825.jpg"
-    },
-    {
       "id": "20260225_164322__IMG_4907",
       "category": "LPS",
       "species": "WWC Jingle Bells",
@@ -1276,25 +1108,11 @@
       "image": "fotos/LPS_wwc-jingle-bells_20260225_164322__IMG_4907.jpg"
     },
     {
-      "id": "20260225_164354__IMG_5282",
-      "category": "LPS",
-      "species": "WWC Jingle Bells",
-      "price": 250,
-      "image": "fotos/LPS_wwc-jingle-bells_20260225_164354__IMG_5282.jpg"
-    },
-    {
       "id": "20260309_111114__IMG_6992",
       "category": "LPS",
       "species": "WWC Pumpkin Eater Chalice",
       "price": 750,
       "image": "fotos/LPS_wwc-pumpkin-eater-chalice_20260309_111114__IMG_6992.jpg"
-    },
-    {
-      "id": "20260309_111104__IMG_6991",
-      "category": "LPS",
-      "species": "WWC Pumpkin Eater Chalice",
-      "price": 750,
-      "image": "fotos/LPS_wwc-pumpkin-eater-chalice_20260309_111104__IMG_6991.jpg"
     },
     {
       "id": "20260225_155912__IMG_3643",
@@ -1346,13 +1164,6 @@
       "image": "fotos/LPS_wwc-stellaria-chalice_20260225_170237__IMG_5601.jpg"
     },
     {
-      "id": "20260225_175006__IMG_5641",
-      "category": "SPS",
-      "species": "Banana Burning Stylocoeniella",
-      "price": 250,
-      "image": "fotos/SPS_banana-burning-stylocoeniella_20260225_175006__IMG_5641.jpg"
-    },
-    {
       "id": "20260225_174959__IMG_5640",
       "category": "SPS",
       "species": "Banana Burning Stylocoeniella",
@@ -1372,13 +1183,6 @@
       "species": "Banana Burning Stylocoeniella",
       "price": 300,
       "image": "fotos/SPS_banana-burning-stylocoeniella_20260225_175039__IMG_5643.jpg"
-    },
-    {
-      "id": "20260225_124401__IMG_6020",
-      "category": "SPS",
-      "species": "Cyphastrea Bizarro",
-      "price": 350,
-      "image": "fotos/SPS_cyphastrea-bizarro_20260225_124401__IMG_6020.jpg"
     },
     {
       "id": "20260225_160024__IMG_3805",
@@ -1409,13 +1213,6 @@
       "image": "fotos/SPS_cyphastrea-bizarro_20260225_182508__IMG_6020.jpg"
     },
     {
-      "id": "20260221_103624__IMG_4904",
-      "category": "SPS",
-      "species": "Electric Daisy Stylocoeniella",
-      "price": 450,
-      "image": "fotos/SPS_electric-daisy-stylocoeniella_20260221_103624__IMG_4904.jpg"
-    },
-    {
       "id": "20260225_184923__IMG_6034",
       "category": "SPS",
       "species": "Electric Daisy Stylocoeniella",
@@ -1444,13 +1241,6 @@
       "image": "fotos/SPS_fruity-monitcap_20260309_111249__IMG_6999.jpg"
     },
     {
-      "id": "20260309_110741__IMG_6990",
-      "category": "SPS",
-      "species": "Fruity Monitcap",
-      "price": 300,
-      "image": "fotos/SPS_fruity-monitcap_20260309_110741__IMG_6990.jpg"
-    },
-    {
       "id": "20260309_111356__IMG_7005",
       "category": "SPS",
       "species": "Fruity Monticap",
@@ -1463,20 +1253,6 @@
       "species": "Fruity Monticap",
       "price": 200,
       "image": "fotos/SPS_fruity-monticap_20260309_111324__IMG_7002.jpg"
-    },
-    {
-      "id": "20260309_111342__IMG_7004",
-      "category": "SPS",
-      "species": "Fruity Monticap",
-      "price": 200,
-      "image": "fotos/SPS_fruity-monticap_20260309_111342__IMG_7004.jpg"
-    },
-    {
-      "id": "20260225_184938__IMG_6035",
-      "category": "SPS",
-      "species": "Hot Pink Stylocoeniella",
-      "price": 450,
-      "image": "fotos/SPS_hot-pink-stylocoeniella_20260225_184938__IMG_6035.jpg"
     },
     {
       "id": "20260309_105837__IMG_6981",
@@ -1507,13 +1283,6 @@
       "image": "fotos/SPS_montipora-roja_20260309_105500__IMG_6973.jpg"
     },
     {
-      "id": "20260225_174852__IMG_5639",
-      "category": "SPS",
-      "species": "Montipora Tropic Thunder",
-      "price": 250,
-      "image": "fotos/SPS_montipora-tropic-thunder_20260225_174852__IMG_5639.jpg"
-    },
-    {
       "id": "20260225_174837__IMG_5638",
       "category": "SPS",
       "species": "Montipora Tropic Thunder",
@@ -1533,20 +1302,6 @@
       "species": "Montipora Tropic Thunder",
       "price": 300,
       "image": "fotos/SPS_montipora-tropic-thunder_20260225_174813__IMG_5636.jpg"
-    },
-    {
-      "id": "20260309_105711__IMG_6975",
-      "category": "SPS",
-      "species": "Neon Green Montipora",
-      "price": 200,
-      "image": "fotos/SPS_neon-green-montipora_20260309_105711__IMG_6975.jpg"
-    },
-    {
-      "id": "20260309_105748__IMG_6978",
-      "category": "SPS",
-      "species": "Neon Green Montipora",
-      "price": 200,
-      "image": "fotos/SPS_neon-green-montipora_20260309_105748__IMG_6978.jpg"
     },
     {
       "id": "20260309_105810__IMG_6979",
@@ -1570,25 +1325,11 @@
       "image": "fotos/SPS_neon-green-montipora_20260309_105829__IMG_6980.jpg"
     },
     {
-      "id": "20260309_114324__IMG_7012",
-      "category": "SPS",
-      "species": "Neon Green Montipora",
-      "price": 150,
-      "image": "fotos/SPS_neon-green-montipora_20260309_114324__IMG_7012.jpg"
-    },
-    {
       "id": "20260309_111334__IMG_7003",
       "category": "SPS",
       "species": "Orange Monticap",
       "price": 250,
       "image": "fotos/SPS_orange-monticap_20260309_111334__IMG_7003.jpg"
-    },
-    {
-      "id": "20260309_111404__IMG_7006",
-      "category": "SPS",
-      "species": "Orange Monticap",
-      "price": 200,
-      "image": "fotos/SPS_orange-monticap_20260309_111404__IMG_7006.jpg"
     },
     {
       "id": "20260309_111233__IMG_6998",
