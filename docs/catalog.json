@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-03-11T15:24:01-06:00",
+  "generatedAt": "2026-03-12T17:53:46-06:00",
   "items": [
     {
       "id": "20260309_110121__IMG_6988",
@@ -86,25 +86,11 @@
       "image": "fotos/Blandos_gatorade_20260225_182140__IMG_6007.jpg"
     },
     {
-      "id": "20260225_182355__IMG_6015",
-      "category": "Blandos",
-      "species": "Gatorade",
-      "price": 150,
-      "image": "fotos/Blandos_gatorade_20260225_182355__IMG_6015.jpg"
-    },
-    {
       "id": "20260225_182410__IMG_6016",
       "category": "Blandos",
       "species": "Gatorade",
       "price": 200,
       "image": "fotos/Blandos_gatorade_20260225_182410__IMG_6016.jpg"
-    },
-    {
-      "id": "20260225_182437__IMG_6018",
-      "category": "Blandos",
-      "species": "Gatorade",
-      "price": 200,
-      "image": "fotos/Blandos_gatorade_20260225_182437__IMG_6018.jpg"
     },
     {
       "id": "20260225_182421__IMG_6017",
@@ -168,13 +154,6 @@
       "species": "LC Starfigthers",
       "price": 350,
       "image": "fotos/Blandos_lc-starfigthers_20260225_161128__IMG_4035.jpg"
-    },
-    {
-      "id": "20260225_185031__IMG_6039",
-      "category": "Blandos",
-      "species": "Leopard Shroom ch",
-      "price": 300,
-      "image": "fotos/Blandos_leopard-shroom-ch_20260225_185031__IMG_6039.jpg"
     },
     {
       "id": "20260225_182457__IMG_6019",
@@ -380,20 +359,6 @@
       "image": "fotos/Blandos_ufo_20260225_162410__IMG_4576.jpg"
     },
     {
-      "id": "20260309_114829__IMG_7015",
-      "category": "Blandos",
-      "species": "Watermelon Discosoma",
-      "price": 250,
-      "image": "fotos/Blandos_watermelon-discosoma_20260309_114829__IMG_7015.jpg"
-    },
-    {
-      "id": "20260225_182341__IMG_6014",
-      "category": "Blandos",
-      "species": "Wine Strawberry",
-      "price": 250,
-      "image": "fotos/Blandos_wine-strawberry_20260225_182341__IMG_6014.jpg"
-    },
-    {
       "id": "20260225_162213__IMG_4561",
       "category": "Blandos",
       "species": "Yellow Jawbreakers",
@@ -478,13 +443,6 @@
       "image": "fotos/LPS_acanthastrea-echinata-toxic_20260225_173951__IMG_5609.jpg"
     },
     {
-      "id": "20260225_174010__IMG_5611",
-      "category": "LPS",
-      "species": "Acanthastrea Echinata Toxic",
-      "price": 200,
-      "image": "fotos/LPS_acanthastrea-echinata-toxic_20260225_174010__IMG_5611.jpg"
-    },
-    {
       "id": "20260225_170120__IMG_5543",
       "category": "LPS",
       "species": "Acanthastrea Lordhwensis Rainbow",
@@ -553,20 +511,6 @@
       "species": "Acanthastrea Lordhwensis Ultra",
       "price": 1250,
       "image": "fotos/LPS_acanthastrea-lordhwensis-ultra_20260309_115249__IMG_7062.jpg"
-    },
-    {
-      "id": "20260225_174619__IMG_5628",
-      "category": "LPS",
-      "species": "Agape Favia",
-      "price": 300,
-      "image": "fotos/LPS_agape-favia_20260225_174619__IMG_5628.jpg"
-    },
-    {
-      "id": "20260225_174630__IMG_5629",
-      "category": "LPS",
-      "species": "Agape Favia",
-      "price": 300,
-      "image": "fotos/LPS_agape-favia_20260225_174630__IMG_5629.jpg"
     },
     {
       "id": "20260225_163730__IMG_4820",
@@ -742,13 +686,6 @@
       "species": "Green Branching Hammer",
       "price": 1200,
       "image": "fotos/LPS_green-branching-hammer_20260225_175426__IMG_5810.jpg"
-    },
-    {
-      "id": "20260225_175523__IMG_5813",
-      "category": "LPS",
-      "species": "Hammer Marbled",
-      "price": 950,
-      "image": "fotos/LPS_hammer-marbled_20260225_175523__IMG_5813.jpg"
     },
     {
       "id": "20260225_175455__IMG_5811",
@@ -1234,13 +1171,6 @@
       "image": "fotos/SPS_forest-green-psammocora-md_20260309_105614__IMG_6974.jpg"
     },
     {
-      "id": "20260309_111249__IMG_6999",
-      "category": "SPS",
-      "species": "Fruity Monitcap",
-      "price": 200,
-      "image": "fotos/SPS_fruity-monitcap_20260309_111249__IMG_6999.jpg"
-    },
-    {
       "id": "20260309_111356__IMG_7005",
       "category": "SPS",
       "species": "Fruity Monticap",
@@ -1281,13 +1211,6 @@
       "species": "Montipora Roja",
       "price": 250,
       "image": "fotos/SPS_montipora-roja_20260309_105500__IMG_6973.jpg"
-    },
-    {
-      "id": "20260225_174837__IMG_5638",
-      "category": "SPS",
-      "species": "Montipora Tropic Thunder",
-      "price": 250,
-      "image": "fotos/SPS_montipora-tropic-thunder_20260225_174837__IMG_5638.jpg"
     },
     {
       "id": "20260225_174822__IMG_5637",
