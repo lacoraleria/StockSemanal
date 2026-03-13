@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-03-13T08:58:16-06:00",
+  "generatedAt": "2026-03-13T13:27:15-06:00",
   "items": [
     {
       "id": "20260309_110121__IMG_6988",
@@ -168,13 +168,6 @@
       "species": "Mohawk",
       "price": 90,
       "image": "fotos/Blandos_mohawk_20260225_182052__IMG_6004.jpg"
-    },
-    {
-      "id": "20260225_182720__IMG_6028",
-      "category": "Blandos",
-      "species": "Mohawk",
-      "price": 100,
-      "image": "fotos/Blandos_mohawk_20260225_182720__IMG_6028.jpg"
     },
     {
       "id": "20260309_114310__IMG_7011",
@@ -891,13 +884,6 @@
       "image": "fotos/LPS_pectinia-rainbow_20260309_121843__IMG_7073.jpg"
     },
     {
-      "id": "20260309_121830__IMG_7072",
-      "category": "LPS",
-      "species": "Pectinia Rainbow",
-      "price": 450,
-      "image": "fotos/LPS_pectinia-rainbow_20260309_121830__IMG_7072.jpg"
-    },
-    {
       "id": "20260309_121903__IMG_7075",
       "category": "LPS",
       "species": "Pectinia Rainbow",
@@ -996,25 +982,11 @@
       "image": "fotos/LPS_tranquility-favia_20260225_185006__IMG_6038.jpg"
     },
     {
-      "id": "20260225_174155__IMG_5615",
-      "category": "LPS",
-      "species": "War Paint Chalice",
-      "price": 350,
-      "image": "fotos/LPS_war-paint-chalice_20260225_174155__IMG_5615.jpg"
-    },
-    {
       "id": "20260225_164346__IMG_4989",
       "category": "LPS",
       "species": "Wellsophyllia",
       "price": 2600,
       "image": "fotos/LPS_wellsophyllia_20260225_164346__IMG_4989.jpg"
-    },
-    {
-      "id": "20260225_180029__IMG_5822",
-      "category": "LPS",
-      "species": "Willy Wonka Hammer",
-      "price": 1200,
-      "image": "fotos/LPS_willy-wonka-hammer_20260225_180029__IMG_5822.jpg"
     },
     {
       "id": "20260225_180038__IMG_5823",
@@ -1232,13 +1204,6 @@
       "species": "Neon Green Montipora",
       "price": 250,
       "image": "fotos/SPS_neon-green-montipora_20260309_105829__IMG_6980.jpg"
-    },
-    {
-      "id": "20260309_111334__IMG_7003",
-      "category": "SPS",
-      "species": "Orange Monticap",
-      "price": 250,
-      "image": "fotos/SPS_orange-monticap_20260309_111334__IMG_7003.jpg"
     },
     {
       "id": "20260309_111233__IMG_6998",
