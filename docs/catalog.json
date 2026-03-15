@@ -1,5 +1,5 @@
 ﻿{
-  "generatedAt": "2026-03-13T13:27:15-06:00",
+  "generatedAt": "2026-03-14T19:00:10-06:00",
   "items": [
     {
       "id": "20260309_110121__IMG_6988",
@@ -79,13 +79,6 @@
       "image": "fotos/Blandos_dragon-fire-daisy_20260225_160538__IMG_3911.jpg"
     },
     {
-      "id": "20260225_182410__IMG_6016",
-      "category": "Blandos",
-      "species": "Gatorade",
-      "price": 200,
-      "image": "fotos/Blandos_gatorade_20260225_182410__IMG_6016.jpg"
-    },
-    {
       "id": "20260225_182421__IMG_6017",
       "category": "Blandos",
       "species": "Gatorade",
@@ -105,13 +98,6 @@
       "species": "Green PE",
       "price": 250,
       "image": "fotos/Blandos_green-pe_20260225_182228__IMG_6010.jpg"
-    },
-    {
-      "id": "20260225_164407__IMG_5283",
-      "category": "Blandos",
-      "species": "Hawaian PE",
-      "price": 200,
-      "image": "fotos/Blandos_hawaian-pe_20260225_164407__IMG_5283.jpg"
     },
     {
       "id": "20260225_162357__IMG_4575",
